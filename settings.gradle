@@ -1,2 +1,4 @@
+include ':module_opengl'
+include ':videolib'
 include ':app'
 rootProject.name = "VideoClient"
